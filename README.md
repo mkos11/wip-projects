@@ -9,3 +9,4 @@
 - [ ] [sungb.in](https://github.com/jisungbin/sungb.in): 개인 포트폴리오 사이트
 - [ ] [OPGG-HACKTHON](https://github.com/OPGG-HACKTHON/mobile-b-android): 게임중 잠수중인 플레이어 복귀 요청 알림 어플리케이션
 - [ ] [SpakChat](https://github.com/jisungbin/SpakChat): Firebase 기반 SNS 스타일 채팅 앱
+- [ ] [Lemon](https://github.com/lemon-music): 뮤직 플레이어 기반 음악 SNS 앱
