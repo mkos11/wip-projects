@@ -3,7 +3,7 @@
 
 -----
 - [ ] [AndroidModernArchitectureSample](https://github.com/jisungbin/AndroidModernArchitectureSample): 안드로이드 클린 아키텍처와 Jetpack 라이브러리들을 사용한 깃허브 유저 검색기
-- [ ] [GitMessengerBot](https://github.com/GitMessengerBot): Git 연동 가능한 카카오톡 봇 어플리케이션 (Android, iOS, Window, macOS 지원)
+- [ ] [GitMessengerBot](https://github.com/GitMessengerBot): Git 사용 가능한 카카오톡 봇 어플리케이션 (Android, iOS, Window, macOS 지원)
 - [x] [갔다올게](https://github.com/OPGG-HACKTHON/mobile-b-android): 게임중 잠수중인 플레이어에게 복귀 요청 알림을 보내는 어플리케이션 (OPGG 헤커톤)
 - [ ] [SpakChat](https://github.com/jisungbin/SpakChat): Firebase 기반 SNS 스타일 채팅 어플리케이션 (Android, iOS 지원)
 - [ ] [~~Lemon~~](https://github.com/lemon-music): 뮤직 플레이어 스타일의 음악 SNS 어플리케이션 (Android, iOS 지원) (보류)
