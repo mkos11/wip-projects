@@ -21,6 +21,6 @@
 
 # 보류 - 시간 여유가 생기면 그때부터 개발 예정
 
-- [ ] [~~Lemon~~](https://github.com/lemon-music): 뮤직 플레이어 스타일의 음악 SNS 어플리케이션 (Android, iOS 지원 예정) (**보류**)
-- [ ] [~~Rainbow-Main~~](https://github.com/rainbow-chatbot): 카카오톡 채팅 분석 웹 연동 봇 (**보류**)
-- [ ] [~~Rainbow-Game~~](https://github.com/rainbow-chatbot/rainbow-game): 포켓몬스터와 동물의 숲을 배경으로 한 카카오톡 텍스트 RPG 게임 봇 (**보류**)
+- [ ] [~~Lemon~~](https://github.com/lemon-music): 뮤직 플레이어 스타일의 음악 SNS 어플리케이션 (Android, iOS 지원 예정)
+- [ ] [~~Rainbow-Main~~](https://github.com/rainbow-chatbot): 카카오톡 채팅 분석 웹 연동 봇
+- [ ] [~~Rainbow-Game~~](https://github.com/rainbow-chatbot/rainbow-game): 포켓몬스터와 동물의 숲을 배경으로 한 카카오톡 텍스트 RPG 게임 봇
