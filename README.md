@@ -11,7 +11,7 @@
 - [x] [건강한 꿀잼티빙](https://github.com/DND-hackathon/HealthyHoneyTving-Android): 재밌는 미디어 및 건강 관리 미디어 추천 안드로이드 어플리케이션 (DND 해커톤)
 - [x] [DevEvent-Android](https://github.com/brave-people/Dev-Event-Android): 개발자 행사를 알려주는 어플리케이션 (배포 완료)
 - [ ] [GitMessengerBot-Android](https://github.com/GitMessengerBot): Git 사용 가능한 카카오톡 봇 어플리케이션 (70% 개발 완료)
-- [ ] [SpakChat](https://github.com/jisungbin/SpakChat): Firebase 기반 SNS 스타일 채팅 어플리케이션 (과외 진행 프로젝트)
+- [ ] [SpakChat-Android](https://github.com/jisungbin/SpakChat): Firebase 기반 SNS 스타일 채팅 어플리케이션 (과외 진행 프로젝트)
 
 # iOS - 2022년부터 개발 예정
 
