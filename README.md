@@ -9,7 +9,7 @@
 - [x] [AndroidModernArchitectureSample](https://github.com/jisungbin/AndroidModernArchitectureSample): 안드로이드 클린 아키텍처와 Jetpack 라이브러리들을 사용한 깃허브 유저 검색기
 - [x] [갔다올게](https://github.com/OPGG-HACKTHON/mobile-b-android): 게임중 잠수중인 플레이어에게 복귀 요청 알림을 보내는 안드로이드 어플리케이션 (OPGG 헤커톤)
 - [x] [건강한 꿀잼티빙](https://github.com/DND-hackathon/HealthyHoneyTving-Android): 재밌는 미디어 및 건강 관리 미디어 추천 안드로이드 어플리케이션 (DND 해커톤)
-- [x] [DevEvent-Android](https://github.com/brave-people/Dev-Event-Android): 개발자 행사를 알려주는 어플리케이션 (배포 완료)
+- [x] [DevEvent-Android](https://github.com/brave-people/Dev-Event-Android): 개발자 행사를 알려주는 어플리케이션 **(배포 완료)**
 - [ ] [GitMessengerBot-Android](https://github.com/GitMessengerBot): Git 사용 가능한 카카오톡 봇 어플리케이션 (70% 개발 완료)
 - [ ] [SpakChat-Android](https://github.com/jisungbin/SpakChat): Firebase 기반 SNS 스타일 채팅 어플리케이션 (과외 진행 프로젝트)
 
