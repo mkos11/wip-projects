@@ -15,8 +15,8 @@
 
 # iOS - 2022년부터 개발 예정
 
-- [ ] GitMessengerBot-iOS: GitMessengerBot iOS 버전
 - [ ] DevEvent-iOS: DevEvent iOS 버전
+- [ ] GitMessengerBot-iOS: GitMessengerBot iOS 버전
 - [ ] SpakChat-iOS: SpakChat iOS 버전
 
 # 보류 - 시간 여유가 생기면 그때부터 개발 예정
